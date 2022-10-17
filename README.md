@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @pythonprogrammes1403
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
+Libraries used:
+1)Tkinter
+2)random
+
+External sources:
+1) https://www.youtube.com/watch?v=6wWTaRYzLyA
+2) https://unicode.org/emoji/charts/full-emoji-list.html
+
+Taken inspiration from:
+ https://www.youtube.com/watch?v=6wWTaRYzLyA
+ <!---
 pythonprogrammes1403/pythonprogrammes1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
